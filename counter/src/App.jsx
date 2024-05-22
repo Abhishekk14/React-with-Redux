@@ -22,7 +22,7 @@ const removeValue = () => {
     setCounter(counter);
 
 }
-
+}
 return (
     <>
       <h1>chai aur react</h1>
